@@ -12,7 +12,6 @@ Ultimately, we will be creating an interactive dashboard that will allow us to v
 
 ---
 ## Requirements
-1. Read CreditScoringDataSet_description first
-2. Conduct Exploratory data analysis to understand types of borrowers
-3. Develop a strategy on which type of borrowers you would loan to
-
+1. Power Query to fetch and consolidate data
+2. Merge job locations with their states from the states dataset using Power Query
+3. Calculate average salary within Power Query
