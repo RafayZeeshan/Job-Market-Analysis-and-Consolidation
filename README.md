@@ -1,4 +1,4 @@
-# Job-Market-Analysis-and-Consolidation: Interactive Dashboard
+# Job Market Analysis and Consolidation: Interactive Dashboard
 
 In this repo we are conducting job market analysis in the U.S market to gauge possibilities of a career in Business Analytics
 ## Case Prompt:
